@@ -10,6 +10,6 @@ Browser support tables for modern web technologies
 Create the perfect palette
 <br>
 3 ->
-<a href="https://colorhunt.co//">colorhunt.co</a>
-Color Palettes for Designers
+<a href="https://mycolor.space/">mycolor.space</a>
+Generate nice Color Palettes
 <br>
